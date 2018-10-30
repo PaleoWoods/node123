@@ -3,7 +3,9 @@
 ##Node.js 
 + [HomePage](http://www.nodejs.org/)
 + [Infoq深入浅出Node.js系列（进阶必读）](http://www.infoq.com/cn/articles/what-is-nodejs)
++ [Io.js中文文档](http://davidcai1993.gitbooks.io/iojs-api-doc-in-chinese/content/)
 + [Node.js中文文档](http://nodeapi.ucdok.com/#/api/)
++ [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 + [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
 + [Node.js C++ addon编写实战系列](http://deadhorse.me/nodejs/2012/10/08/c_addon_in_nodejs_node_gyp.html)
 + [热门node.js模块排行榜，方便找出你想要的模块](https://nodejsmodules.org/)
@@ -14,8 +16,11 @@
 + [Node.js http 管道拒绝服务漏洞](http://cnodejs.org/topic/5293550ca6957a08096508fb)
 + [Node.js高级编程](http://yaohuiji.com/2013/01/08/pro-node-article-list/)
 + [Node.js代码风格指南](https://github.com/dead-horse/node-style-guide)
++ [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
++ [前端快速掌握 nodejs+mongodb+express+jade](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 
 ##业界新闻
+
 + [NodeJS无所不能：细数10个令人惊讶的NodeJS开源项目](http://www.csdn.net/article/2013-12-17/2817827-10-surprising-Node.js-projects)
 + [看eBay如何评价他们的Node.js首次尝鲜](http://www.csdn.net/article/2013-05-20/2815364-how-ebays-first-node-js-application-were-built)
 + [程序员如何说服老板采用Node.js？](http://www.csdn.net/article/2012-05-03/2805296)
@@ -23,7 +28,7 @@
 + [高性能Node.js：来自LinkedIn Mobile的10条优化建议](http://www.rockdai.com/?p=596)
 + [Kraken：改变PayPal开发文化的Node.js框架](http://www.csdn.net/article/2013-11-25/2817617-PayPal-Kraken-Nodejs-Framework)
 + [Groupon抛弃Rails，转向Node.js](http://www.iteye.com/news/28358) 
-
++ [PayPal为什么从Java迁移到Node.js，性能提高一倍，文件代码减少44%](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
 
 ##经验分享
 
@@ -143,7 +148,7 @@
 + [阿里出品的node.js调研与服务性能测试](http://www.tbdata.org/archives/1285)
 + [多核单服务器各种配置和业务压力下的node.js性能测试](http://snoopyxdy.blog.163.com/blog/static/6011744020117315192204/)
 + [巅峰对决：node.js和php性能测试](http://snoopyxdy.blog.163.com/blog/static/60117440201183101319257/)
-
++ [性能测评：Node.JS比Java EE快20%](http://ourjs.com/detail/52726d92031db63703000001)
 
 ##活跃开发者（排名不分先后）
 
@@ -153,7 +158,7 @@
 + [Python发烧友](http://fengmk2.github.io/)
 + [老雷](http://ucdok.com/)
 + [shiedman](http://cnodejs.org/user/shiedman)
-+ [jiyinyiyong](http://jiyinyiyong.github.io/blog/)
++ [jiyinyiyong](http://tiye.me)
 
 
 ##开源案例 收集Cnode的开源项目
@@ -202,7 +207,7 @@
 ###[了不起的Node.js](http://book.douban.com/subject/25767596/)  
 ![](http://img3.douban.com/mpic/s27132823.jpg)
 
-###[九浅一深Node.js](http://book.douban.com/subject/25768396/) piao大作品
+###[九浅一深Node.js](http://book.douban.com/subject/25768396/) pu大作品
 ![](http://img5.douban.com/mpic/s27134708.jpg)
 
 ###[node.js入门经典](http://book.douban.com/subject/23780706/)
